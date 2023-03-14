@@ -8,7 +8,7 @@
 - **type alias는 새로운 프로퍼티에 열려있지 않으며, interface는 항상 열려있다.**
 - 다음 예시를 살펴보자.
     
-    ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/ecfb9411-7f6c-4c15-a6ad-8e9c7e97b399/Untitled.png)
+    ![Untitled](https://tecoble.techcourse.co.kr/static/33901ee3f6eecc05ab8b35de2871a072/0e821/2022-11-07-interfacetype-interfacevstype.png)
     
     - 왼쪽은 interface, 오른쪽은 type
     - 왼쪽 코드를 보면, interface 키워드를 통해 Window 타입을 선언한 후, 바로 아래에서 다시 다른 프로퍼티를 가진 Window 타입을 선언했다.
