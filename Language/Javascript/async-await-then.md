@@ -278,13 +278,13 @@ makeRequest()
 - promise를 디버깅할 땐 다음과 같은 고통(?)이 따른다.
     1. return되는 arrow function들에 breakpoint를 잡을 수 없다.
         
-        ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/d009c860-2571-46b8-8b97-200b8a93698a/Untitled.png)
+        ![Untitled](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*1rlNjMeVyQJhA0EdgJL1sw.png)
         
     2. .then 블록 안에 breakpoint를 잡고 step-over와 같은 debugshortcuts를 사용하게 되면 debugger는 .then을 따라서 움직이지 않는다.
         1. 디버그 도구가 동기화된 코드만 따라서 움직이기 때문이다.
 - async/await를 사용하면 arrow function을 많이 사용할 필요가 없고, 디버그 도구는 동기화된 코드를 실행하는 것과 다름 없이 동작한다.
     
-    ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/31831c23-ac7f-4dae-a112-68a0c229370f/Untitled.png)
+    ![Untitled](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*9LNQZrYsro5S862Bg1UWBw.png)
     
 
 ## then은 사용하지 말아야 하나요?
