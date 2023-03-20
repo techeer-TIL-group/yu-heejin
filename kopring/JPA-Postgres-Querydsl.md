@@ -59,8 +59,8 @@ dependencies {
     annotationProcessor("org.projectlombok:lombok")
     testImplementation("org.springframework.boot:spring-boot-starter-test")
 
-		// JPA
-		implementation("org.springframework.boot:spring-boot-starter-data-jpa")
+    // JPA
+    implementation("org.springframework.boot:spring-boot-starter-data-jpa")
     runtimeOnly("org.postgresql:postgresql")
 
     // queryDSL
@@ -100,21 +100,21 @@ spring:
     properties:
       hibernate:
         ddl-auto: create   
-				# 기존 테이블 삭제 후 새로 생성 (운영환경에서는 권장되지 않음)
+        # 기존 테이블 삭제 후 새로 생성 (운영환경에서는 권장되지 않음)
         show_sql: true
         format_sql: true   
-				# sql 출력문의 모양을 잡아준다.
+        # sql 출력문의 모양을 잡아준다.
         use_sql_comments: true   
-				# 콘솔에 표시되는 쿼리문 위에 어떤 실행을 하려는지 힌트 표시, 주석 표시
+        # 콘솔에 표시되는 쿼리문 위에 어떤 실행을 하려는지 힌트 표시, 주석 표시
     generate-ddl: true   
-		# 앱 시작 시 @Entity로 정의한 테이브르이 create문 실행
+    # 앱 시작 시 @Entity로 정의한 테이브르이 create문 실행
 ```
 
 ```yaml
 spring:
   datasource:
     url: jdbc:postgresql://localhost:5432/   
-		# docker에서 실행하지 않을 경우 ip주소는 localhost
+    # docker에서 실행하지 않을 경우 ip주소는 localhost
     username: 
     password: 
     driver-class-name: org.postgresql.Driver
