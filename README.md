@@ -6,4 +6,5 @@
 | 3일차 (3/15) | O (페이징 처리 쿼리문, 쿼리 파라미터 사용하기, useParams) |
 | 4일차 (3/16) | O (Group By/Having/Order By, useNavigate) |
 | 5일차 (3/17) | O (Full Text Index, Link/NavLink/useNavigate) |
-| 6일차 (3/16) | O (코프링에서 jpa, querydsl, postgresql 설정하기) |
+| 6일차 (3/18) | O (코프링에서 jpa, querydsl, postgresql 설정하기) |
+| 7일차 (3/20) | O (async/await vs then, 타입스크립트의 비구조화 할당, Props 비구조화 할당) |
