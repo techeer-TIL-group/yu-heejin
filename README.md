@@ -8,4 +8,4 @@
 | 5일차 (3/17) | Full Text Index, Link/NavLink/useNavigate |
 | 6일차 (3/18) | 코프링에서 jpa, querydsl, postgresql 설정하기 |
 | 7일차 (3/20) | async/await vs then, 타입스크립트의 비구조화 할당, Props 비구조화 할당, styled component |
-| 8일차 (3/21) | React 절대 경로 설정하기 |
+| 8일차 (3/21) | React 절대 경로 설정하기, Dispatch<SetStateAction<T>>, React Router |
