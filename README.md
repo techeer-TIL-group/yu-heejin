@@ -11,4 +11,4 @@
 | 8일차 (3/21) | React 절대 경로 설정하기, Dispatch<SetStateAction<T>>, React Router |
 | 9일차 (3/22) | Symbol, 자바스크립트에서 객체란, React Native 공식 문서 튜토리얼 |
 | 10일차 (3/23) | - |
-| 11일차 (3/24) | Namespace & room, Redis pu/sub |
+| 11일차 (3/24) | Namespace & room, Redis pub/sub |
