@@ -14,3 +14,5 @@
 | 11일차 (3/24) | Namespace & room, Redis pub/sub, Socket.io Adapter |
 | 12일차 (3/27) | Passport.js |
 | 13일차 (3/28) | 자바의 동시적 프로그래밍 |
+| 14일차 (3/29) | - |
+| 15일차 (3/30) | socket.io rooms |
