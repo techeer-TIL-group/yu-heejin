@@ -3,7 +3,7 @@
 | 날짜 | 기록 | 날짜 | 기록 |
 | --- | --- | --- | --- |
 | 1일차 (3/13) | 결합도와 응집도 | 17일차 (4/3) | - |
-| 2일차 (3/14) | Interface vs Type alias | 18일차 (4/4) | socket.io 방 이름과 유저 수 띄우기 |
+| 2일차 (3/14) | Interface vs Type alias | 18일차 (4/4) | socket.io rooms & sids |
 | 3일차 (3/15) | 페이징 처리 쿼리문, 쿼리 파라미터 사용하기, useParams | - | - |
 | 4일차 (3/16) | Group By/Having/Order By, useNavigate | - | - |
 | 5일차 (3/17) | Full Text Index, Link/NavLink/useNavigate | - | - |
