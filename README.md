@@ -4,7 +4,7 @@
 | --- | --- | --- | --- |
 | 1일차 (3/13) | 결합도와 응집도 | 17일차 (4/3) | - |
 | 2일차 (3/14) | Interface vs Type alias | 18일차 (4/4) | socket.io rooms & sids |
-| 3일차 (3/15) | 페이징 처리 쿼리문, 쿼리 파라미터 사용하기, useParams | - | - |
+| 3일차 (3/15) | 페이징 처리 쿼리문, 쿼리 파라미터 사용하기, useParams | 19일차 (4/5) | javascript 반복문 총 정리 |
 | 4일차 (3/16) | Group By/Having/Order By, useNavigate | - | - |
 | 5일차 (3/17) | Full Text Index, Link/NavLink/useNavigate | - | - |
 | 6일차 (3/18) | 코프링에서 jpa, querydsl, postgresql 설정하기 | - | - |
