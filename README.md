@@ -7,7 +7,7 @@
 | 3일차 (3/15) | 페이징 처리 쿼리문, 쿼리 파라미터 사용하기, useParams | 19일차 (4/5) | javascript 반복문 총 정리 |
 | 4일차 (3/16) | Group By/Having/Order By, useNavigate | 20일차 (4/6) | - |
 | 5일차 (3/17) | Full Text Index, Link/NavLink/useNavigate | 21일차 (4/7) | React 상태관리 종류 |
-| 6일차 (3/18) | 코프링에서 jpa, querydsl, postgresql 설정하기 | - | - |
+| 6일차 (3/18) | 코프링에서 jpa, querydsl, postgresql 설정하기 | 22일차 (4/10) | javascript Promise |
 | 7일차 (3/20) | async/await vs then, 타입스크립트의 비구조화 할당, Props 비구조화 할당, styled component | - | - |
 | 8일차 (3/21) | React 절대 경로 설정하기, Dispatch<SetStateAction<T>>, React Router | - | - |
 | 9일차 (3/22) | Symbol, 자바스크립트에서 객체란, React Native 공식 문서 튜토리얼 | - | - |
