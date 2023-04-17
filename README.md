@@ -12,7 +12,7 @@
 | 8일차 (3/21) | React 절대 경로 설정하기, Dispatch<SetStateAction<T>>, React Router | 24일차 (4/12) | .nvmrc란?, 콜백 함수 |
 | 9일차 (3/22) | Symbol, 자바스크립트에서 객체란, React Native 공식 문서 튜토리얼 | 25일차 (4/13) | NestJS에서 IoC, DI, Singleton |
 | 10일차 (3/23) | - | 26일차 (4/14) | class-validator |
-| 11일차 (3/24) | Namespace & room, Redis pub/sub, Socket.io Adapter | - | - |
+| 11일차 (3/24) | Namespace & room, Redis pub/sub, Socket.io Adapter | 27일차 (4/17) | class-transformer |
 | 12일차 (3/27) | Passport.js | - | - |
 | 13일차 (3/28) | 자바의 동시적 프로그래밍 | - | - |
 | 14일차 (3/29) | (4/1 보충) spring scheduler | - | - |
