@@ -191,7 +191,7 @@
 - `@Expose()`는 서로 이름, 컨벤션이 다른 경우 유용하게 사용할 수 있다.
     - 대표적으로 오픈 API가 있는데, 오픈 API 대부분이 스네이크 케이스로 결과를 전송한다.
         
-        ```json
+        ```
         {
             email: 'test@test.com',
             phone_number: '+82 10-1234-1234',
@@ -291,7 +291,7 @@
 - `plainToClass`는 deprecated 되었기 때문에 `plainToInstance`를 사용해야 한다.
 - 외부에서 API를 호출해 다음과 같은 데이터를 얻었다고 가정하자.
     
-    ```json
+    ```
     {
         username: "junha park",
         birthDate: "1994-09-02"
