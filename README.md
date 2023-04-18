@@ -13,7 +13,7 @@
 | 9일차 (3/22) | Symbol, 자바스크립트에서 객체란, React Native 공식 문서 튜토리얼 | 25일차 (4/13) | NestJS에서 IoC, DI, Singleton |
 | 10일차 (3/23) | - | 26일차 (4/14) | class-validator |
 | 11일차 (3/24) | Namespace & room, Redis pub/sub, Socket.io Adapter | 27일차 (4/17) | class-transformer |
-| 12일차 (3/27) | Passport.js | - | - |
+| 12일차 (3/27) | Passport.js | 28일차 (4/18) | Spring DTO, Entity 필드 타입, Query Parameter vs Path Variable |
 | 13일차 (3/28) | 자바의 동시적 프로그래밍 | - | - |
 | 14일차 (3/29) | (4/1 보충) spring scheduler | - | - |
 | 15일차 (3/30) | socket.io rooms | - | - |
