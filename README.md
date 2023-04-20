@@ -15,6 +15,6 @@
 | 11일차 (3/24) | Namespace & room, Redis pub/sub, Socket.io Adapter | 27일차 (4/17) | class-transformer |
 | 12일차 (3/27) | Passport.js | 28일차 (4/18) | Spring DTO, Entity 필드 타입, Query Parameter vs Path Variable |
 | 13일차 (3/28) | 자바의 동시적 프로그래밍 | 29일차 (4/19) | param/query/body, 401 vs 403 |
-| 14일차 (3/29) | (4/1 보충) spring scheduler | - | - |
+| 14일차 (3/29) | (4/1 보충) spring scheduler | 30일차 (4/20) | Node.js moment, transaction |
 | 15일차 (3/30) | socket.io rooms | - | - |
 | 16일차 (3/31) | node.js는 싱글 스레드일까? | - | - |
