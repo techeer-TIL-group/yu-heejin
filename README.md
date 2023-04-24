@@ -17,4 +17,4 @@
 | 13일차 (3/28) | 자바의 동시적 프로그래밍 | 29일차 (4/19) | param/query/body, 401 vs 403 |
 | 14일차 (3/29) | (4/1 보충) spring scheduler | 30일차 (4/20) | Node.js moment, transaction |
 | 15일차 (3/30) | socket.io rooms | 31일차 (4/21) | (4/22 보충) MySQL GROUP_CONCAT, WHERE ... IN |
-| 16일차 (3/31) | node.js는 싱글 스레드일까? | - | - |
+| 16일차 (3/31) | node.js는 싱글 스레드일까? | 32일차 (4/24) | Math.round/ceil/floor |
