@@ -9,3 +9,4 @@
 | 36일차 (4/28) | (보충) Typescript enum, keyof, typeof |
 | 37일차 (5/1) | (보충) Typescript Union, Intersection |
 | 38일차 (5/2) | (보충) NestJS class-validate와 ValidatePipe |
+| 39일차 (5/3) | Java Upcasting, Downcasting |
