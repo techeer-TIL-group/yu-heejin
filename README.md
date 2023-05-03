@@ -4,4 +4,6 @@
 | 날짜 | 기록 |
 | --- | --- |
 | 33일차 (4/25) | Typescript 유틸리티 타입, NestJS 유효성 검사 |
-| 34일차 (4/26) | Typescript as, is와 타입 단언|
+| 34일차 (4/26) | Typescript as, is와 타입 단언 |
+| 35일차 (4/27) | (보충) Typescript 함수 시그니처 |
+| 36일차 (4/28) | (보충) Typescript enum, keyof, typeof |
