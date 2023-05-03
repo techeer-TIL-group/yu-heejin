@@ -7,3 +7,4 @@
 | 34일차 (4/26) | Typescript as, is와 타입 단언 |
 | 35일차 (4/27) | (보충) Typescript 함수 시그니처 |
 | 36일차 (4/28) | (보충) Typescript enum, keyof, typeof |
+| 37일차 (5/1) | (보충) Typescript Union, Intersection |
