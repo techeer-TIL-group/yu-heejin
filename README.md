@@ -11,3 +11,4 @@
 | 38일차 (5/2) | (보충) NestJS class-validate와 ValidatePipe |
 | 39일차 (5/3) | Java Upcasting, Downcasting |
 | 40일차 (5/4) | Typescript typeof Array[number] |
+| 41일차 (5/5) | Typescript 인덱스 시그니처 |
