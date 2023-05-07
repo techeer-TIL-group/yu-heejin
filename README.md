@@ -12,4 +12,4 @@
 | 39일차 (5/3) | Java Upcasting, Downcasting |
 | 40일차 (5/4) | Typescript typeof Array[number] |
 | 41일차 (5/5) | Typescript 인덱스 시그니처, NestJS @isOptional |
-| 추가 공부 | Java 메소드 오버라이딩, 오버라이딩 불가능한 메소드, 오버로딩 vs 오버라이딩 |
+| 추가 공부 | Java 메소드 오버라이딩, 오버라이딩 불가능한 메소드, 오버로딩 vs 오버라이딩, 정보 은닉과 캡슐화 |
