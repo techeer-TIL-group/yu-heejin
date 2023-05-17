@@ -20,3 +20,4 @@
 | 46일차 (5/12) | 자바스크립트 배열 함수 |
 | 47일차 (5/15) | never 타입, reduce(), 객체 배열 중복 제거, 이터러블 vs 이터레이터 |
 | 48일차 (5/16) | 자바스크립트 spread/rest, Array.from vs Spread, Java에서 Set의 객체 비교 |
+| 49일차 (5/17) | interface, type 상세 비교 |
