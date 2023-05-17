@@ -15,7 +15,7 @@
 
 ## findById
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/dcea0500-7334-46f8-8acc-38557eaad497/Untitled.png)
+![Untitled](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FbP9eCg%2FbtrCXyywK5e%2FZE88wdIlDq6mzPkJMIPbhk%2Fimg.png)
 
 - 매개변수로 전달된 id에 해당하는 entity를 반환하거나, 해당 결과가 없는 경우 Optional.empty()를 반환한다.
     - 즉, 탐색 결과가 없더라도 내부에서 예외를 발생시키지 않는다.
@@ -23,14 +23,14 @@
 
 ## GetOne
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/5f7b6e1e-e3f2-4aba-9a0b-88bb693d1851/Untitled.png)
+![Untitled](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FJEtcK%2FbtrCXRSAmIg%2FHDOeuAKWNtY5fQ876TGxZ1%2Fimg.png)
 
 - `Optional<T>`가 아닌 `T`가 반환값이다.
 - 매개변수로 전달된 ID에 해당하는 entity를 반환하나 없을 경우 내부에서 예외를 발생시킨다.
 
 ## getReferenceById
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/5d3809cb-e88b-416b-b742-0ccab854944d/Untitled.png)
+![Untitled](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FQfSdu%2FbtrCXl7vocY%2FkjECoRD84JqazvzvUGnK41%2Fimg.png)
 
 - getOne과 동일하다.
 
