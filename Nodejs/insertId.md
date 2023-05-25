@@ -1,3 +1,5 @@
+### node.js + mysql에서 방금 넣은 데이터의 아이디 값 확인하기
+
 - result.insertId로 확인할 수 있다.
     
     ```jsx
