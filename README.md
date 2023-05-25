@@ -4,4 +4,4 @@
 
 | 날짜 | 기록 |
 | --- | --- |
-| 55일차 (5/25) | React Blob과 ArrayBuffer, charCodeAt / fromCharCode |
+| 55일차 (5/25) | React Blob과 ArrayBuffer, charCodeAt / fromCharCode, atob / btoa |
