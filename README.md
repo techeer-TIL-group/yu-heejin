@@ -5,3 +5,4 @@
 | 날짜 | 기록 |
 | --- | --- |
 | 55일차 (5/25) | React Blob과 ArrayBuffer, charCodeAt / fromCharCode, atob / btoa, node.js mysql에서 insertId 확인하기 |
+| 56일차 (5/26) | - |
