@@ -6,3 +6,4 @@
 | --- | --- |
 | 55일차 (5/25) | React Blob과 ArrayBuffer, charCodeAt / fromCharCode, atob / btoa, node.js mysql에서 insertId 확인하기 |
 | 56일차 (5/26) | (보충) 자바스크립트의 배열과 Dense vs Sparse Array |
+| 추가 공부 | 타입스크립트 Record 타입 |
