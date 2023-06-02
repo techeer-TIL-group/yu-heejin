@@ -10,3 +10,4 @@
 | 57일차 (5/30) | 타입 어노테이션, ?? (null 병합 연산자) |
 | 58일차 (5/31) | - |
 | 59일차 (6/1) | ON DUPLICATE KEY UPDATE, REPLACE INTO |
+| 60일차 (6/2) | javascript 두 배열 비교하기 |
