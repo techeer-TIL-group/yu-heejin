@@ -11,4 +11,4 @@
 | 58일차 (5/31) | (보충) INSERT IGNORE INTO |
 | 59일차 (6/1) | ON DUPLICATE KEY UPDATE, REPLACE INTO |
 | 60일차 (6/2) | javascript 두 배열 비교하기 |
-| 추가 공부 | ON DUPLICATE KEY UPDATE vs IGNORE INTO |
+| 추가 공부 | ON DUPLICATE KEY UPDATE vs IGNORE INTO, Serialize |
