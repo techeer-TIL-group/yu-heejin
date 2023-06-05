@@ -12,3 +12,4 @@
 | 59일차 (6/1) | ON DUPLICATE KEY UPDATE, REPLACE INTO |
 | 60일차 (6/2) | javascript 두 배열 비교하기 |
 | 추가 공부 | ON DUPLICATE KEY UPDATE vs IGNORE INTO, Serialize |
+| 61일차 (6/5) | reduce와 ...를 같이 쓰지 마세요... |
