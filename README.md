@@ -14,3 +14,4 @@
 | 추가 공부 | ON DUPLICATE KEY UPDATE vs IGNORE INTO, Serialize |
 | 61일차 (6/5) | reduce와 ...를 같이 쓰지 마세요... |
 | 62일차 (6/6) | javascript 상속과 prototype |
+| 63일차 (6/7) | atomic 디자인 패턴 |
