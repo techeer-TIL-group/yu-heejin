@@ -16,3 +16,4 @@
 | 62일차 (6/6) | javascript 상속과 prototype |
 | 63일차 (6/7) | atomic 디자인 패턴 |
 | 64일차 (6/8) | Node.js 파일 업로드 비교, fs 모듈 |
+| 65일차 (6/9) | class-validator의 조건부 사용 |
