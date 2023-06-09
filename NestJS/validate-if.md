@@ -22,3 +22,4 @@ export class Post {
 
 - https://idenrai.tistory.com/247
 - https://malgogi-developer.tistory.com/61
+- https://github.com/typestack/class-validator
