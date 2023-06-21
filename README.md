@@ -26,4 +26,4 @@
 | 추가 공부 | ts-jenum, cookie와 SameSite |
 | 71일차 (6/19) | useState 동기적 처리 |
 | 72일차 (6/20) | - |
-| 73일차 (6/21) | Parametric Search, call by value/call by reference |
+| 73일차 (6/21) | Parametric Search, call by value/call by reference, 깊은/얕은/방어적 복사 |
