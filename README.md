@@ -25,3 +25,5 @@
 | 70일차 (6/16) | 타입스크립트에서 enum을 쓰면 안되는 경우 |
 | 추가 공부 | ts-jenum, cookie와 SameSite |
 | 71일차 (6/19) | useState 동기적 처리 |
+| 72일차 (6/20) | - |
+| 73일차 (6/21) | Parametric Search |
