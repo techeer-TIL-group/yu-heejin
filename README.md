@@ -13,3 +13,4 @@
 | 78일차 (7/1) | 논리연산자에 대한 오해, for await of |
 | 79일차 (7/3) | DB 스토리지 엔진, state vs props, useState vs useRef |
 | 80일차 (7/4) | axios 모듈화 |
+| 81일차 (7/5) | 동기/비동기, 블로킹/논블로킹 |
