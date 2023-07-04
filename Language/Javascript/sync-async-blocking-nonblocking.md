@@ -1,6 +1,7 @@
 ## 동기(Synchronous)와 비동기(Asynchronous)
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/fdfe5d1d-dfb3-4ed1-95c7-0a6a33a4c18c/Untitled.png)
+![image](https://github.com/techeer-TIL-group/yu-heejin/assets/96467030/ead7c903-c82d-46bd-97f8-83656cb859e2)
+
 
 - 동기 방식은 **서버에서 요청을 보냈을 때 응답이 돌아와야 다음 동작을 수행**할 수 있다.
     - 즉, A 작업이 모두 진행될 때까지 B 작업은 대기해야 한다.
@@ -10,7 +11,8 @@
 
 ### 비동기의 성능 이점
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/f3bc87d2-644f-484d-9883-a933300beb62/Untitled.png)
+![image](https://github.com/techeer-TIL-group/yu-heejin/assets/96467030/f995f0ce-3c77-401c-8fe7-a8708cad15c3)
+
 
 - 요청한 작업에 대해 완료 여부를 신경쓰지 않고 자신의 다음 작업을 수행한다는 것은, **시간이 느린 작업이 발생할 때 기다리지 않고 다른 작업을 처리하면서 동시에 처리하여 멀티 작업을 진행**할 수 있기 문이다.
 - 여기서 ‘동시 처리’라는 개념은 두 개 이상의 작업이 동시에 실행되는 것을 의미한다.
@@ -77,7 +79,8 @@ console.log('3rd');
 
 ## 블로킹(Blocking)과 논블로킹(Non-Blocking)
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/fbe34a23-77cf-4c3a-85a0-14b922fbee62/Untitled.png)
+![image](https://github.com/techeer-TIL-group/yu-heejin/assets/96467030/71d602ff-fec7-4532-9152-ceff77c4db33)
+
 
 - 블로킹과 논블로킹은 **다른 요청의 작업을 처리하기 위해 현재 작업을 block(차단, 대기) 하느냐 아니냐의 유무를 나타내는 프로세스의 실행 방식**이다.
 - 동기/비동기가 전체적인 작업에 대한 순차적인 흐름 유무라면, **블로킹/논블로킹은 전체적인 작업의 흐름 자체를 막냐 안막냐로 볼 수 있는 것이다.**
@@ -125,7 +128,8 @@ console.log('3rd');
 
 ### Blocking 방식으로 호출할 시 제어권 상태
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/19f1ca83-fa8d-4610-96c0-4d09c41ddb97/Untitled.png)
+![image](https://github.com/techeer-TIL-group/yu-heejin/assets/96467030/75d57fc1-4f29-4825-b274-c5434ee5704d)
+
 
 1. A 함수가 B 함수를 호출하면 B에게 제어권이 넘어간다.
 2. 제어권을 넘겨받은 B는 함수를 실행한다.
@@ -135,14 +139,16 @@ console.log('3rd');
 
 ### Non-Blocking 방식으로 호출할 시 제어권 상태
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/01620bd9-09bb-428b-9870-54a001b35605/Untitled.png)
+![image](https://github.com/techeer-TIL-group/yu-heejin/assets/96467030/07850f24-a9b3-496a-af12-eb7782e08237)
+
 
 1. A 함수가 B 함수를 호출한다.
 2. 호출된 B함수는 실행되지만, 제어권은 그대로 가지고 있기 때문에 B 함수를 호출한 이후에도 자신의 코드를 계속 실행한다.
 
 ## 동기/비동기 + 블로킹/논블로킹 조합
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/d4ed4380-8c82-455c-b3b1-2893f69fef7c/Untitled.png)
+![image](https://github.com/techeer-TIL-group/yu-heejin/assets/96467030/33fee2dc-389a-4770-a49f-6adc37122e22)
+
 
 ### Sync Blocking (동기 블로킹)
 
