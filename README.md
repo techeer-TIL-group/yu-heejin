@@ -14,4 +14,4 @@
 | 79일차 (7/3) | DB 스토리지 엔진, state vs props, useState vs useRef |
 | 80일차 (7/4) | axios 모듈화 |
 | 81일차 (7/5) | 동기/비동기, 블로킹/논블로킹 |
-| 82일차 (7/7) | axios interceptors, 400/401/403, Arrays.asList vs List.of |
+| 82일차 (7/7) | axios interceptors, 400/401/403, Arrays.asList vs List.of, Collections를 복사하는 여러가지 방법 |
