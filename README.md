@@ -16,3 +16,4 @@
 | 81일차 (7/5) | 동기/비동기, 블로킹/논블로킹 |
 | 82일차 (7/7) | axios interceptors, 400/401/403, Arrays.asList vs List.of, Collections를 복사하는 여러가지 방법, unmodifiable vs copyOf |
 | 83일차 (7/8) | Java Facade 패턴, CASCADE |
+| 84일차 (7/14) | 사소한 Java 기초 문법들 |
