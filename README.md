@@ -18,3 +18,4 @@
 | 83일차 (7/8) | Java Facade 패턴, CASCADE |
 | 84일차 (7/14) | 사소한 Java 기초 문법들 |
 | 85일차 (7/15) | OLTP/OLAP |
+| 86일차 (7/16) | mysql CASE ~ WHEN THEN |
