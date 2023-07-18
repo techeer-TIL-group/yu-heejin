@@ -20,3 +20,4 @@
 | 85일차 (7/15) | OLTP/OLAP |
 | 86일차 (7/16) | mysql CASE ~ WHEN THEN |
 | 87일차 (7/17) | CHAR/VARCHAR/TEXT, 사소한 Java 기초 문법들 (2) |
+| 88일차 (7/18) | Java Proxy 패턴 |
