@@ -5,8 +5,8 @@
 
 - 서버의 들어온 요청을 다시 내부의 특정 포트로 보내주는 것이다. (특정 포트 == 특정 서버)
 - 웹서버는 요청에 대한 적절한 로컬 포트를 정하기 위한 약속이 필요한데, 다음 두 가지로 정의할 수 있다.
-    1. URL 머리(도메인 호스트)로 구분하기 (ex. https://`hello`.host.com)
-    2. URL 꼬리(location)로 구분하기 (ex. https://host.com/`hello`)
+    1. URL 머리(도메인 호스트)로 구분하기 (ex. `https://hello.host.com`)
+    2. URL 꼬리(location)로 구분하기 (ex. `https://host.com/hello`)
 
 ## 사용 방법
 
