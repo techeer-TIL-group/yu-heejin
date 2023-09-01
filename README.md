@@ -2,7 +2,6 @@
 | [0313 ~ 0424](https://github.com/techeer-TIL-group/yu-heejin/blob/main/Log/0313-0424.md) | [0425 ~ 0524](https://github.com/techeer-TIL-group/yu-heejin/blob/main/Log/0425-0524.md) |
 | -- | -- |
 | [0525 ~ 0621](https://github.com/techeer-TIL-group/yu-heejin/blob/main/Log/0525-0621.md) | [0623 ~ 0721](https://github.com/techeer-TIL-group/yu-heejin/blob/main/Log/0525-0621.md) |
-| -- | -- |
 | [0722 ~ 0823](https://github.com/techeer-TIL-group/yu-heejin/blob/main/Log/0722-0823.md) | - |
 
 ---
