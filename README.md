@@ -16,4 +16,4 @@
 | 116일차 (9/15) | 맨해튼 거리 |
 | 117일차 (9/16) | Java에서 우선순위 큐 사용하기 |
 | 118일차 (9/17) | JPA ID전략이 IDENTITY인 상태에서 Bulk Insert 수행하기 |
-| 119일차 (9/20) | Nest.js에서 DTO 작성 시 interface vs class |
+| 119일차 (9/20) | Nest.js에서 DTO 작성 시 interface vs class, 코틀린의 data class |
