@@ -19,3 +19,4 @@
 | 119일차 (9/20) | Nest.js에서 DTO 작성 시 interface vs class, 코틀린의 data class |
 | 120일차 (9/22) | 트랜잭션 (1) |
 | 121일차 (9/23) | mongoose에서 페이지네이션, kotlin lateinit vs lazy, 사소한 sql 함수 (2) |
+| 123일차 (9/27) | Union-Find 알고리즘 |
