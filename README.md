@@ -21,3 +21,4 @@
 | 121일차 (9/23) | mongoose에서 페이지네이션, kotlin lateinit vs lazy, 사소한 sql 함수 (2) |
 | 123일차 (9/27) | Union-Find 알고리즘 |
 | 124일차 (9/29) | 사소한 Java 기초 문법들 (5), QueryDsl에서 조회 결과를 DTO클래스로 받기, WITH[RECURSIVE]와 VIEW |
+| 125일차 (9/30) | Promise.all/race/finally |
