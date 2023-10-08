@@ -69,6 +69,24 @@ interface PostLikeRepository : JpaRepository<PostLike, Long> {
 ### 기존 코드
 
 ```kotlin
+package com.kotlin.study.dongambackend.domain.post.repository
+
+import com.kotlin.study.dongambackend.domain.post.entity.PostLike
+import org.springframework.data.jpa.repository.JpaRepository
+import org.springframework.data.jpa.repository.Query
+import java.util.*
+
+interface PostLikeRepository : JpaRepository<PostLike, Long> {
+
+    @Query(
+        nativeQuery = true,
+        value = "SELECT * FROM post_like WHERE user_id = :userId AND post_id = :postId"
+    )
+    fun findById(userId: Long, postId: Long): Optional<PostLike>
+}
+```
+
+```kotlin
 package com.kotlin.study.dongambackend.domain.post.service
 
 import com.kotlin.study.dongambackend.domain.post.dto.entitykey.PostLikeKey
@@ -119,6 +137,24 @@ class PostService(
 ```
 
 ### 리팩토링 코드
+
+```kotlin
+package com.kotlin.study.dongambackend.domain.post.repository
+
+import com.kotlin.study.dongambackend.domain.post.entity.PostLike
+import org.springframework.data.jpa.repository.JpaRepository
+import org.springframework.data.jpa.repository.Query
+import java.util.*
+
+interface PostLikeRepository : JpaRepository<PostLike, Long> {
+
+    @Query(
+        nativeQuery = true,
+        value = "SELECT * FROM post_like WHERE user_id = :userId AND post_id = :postId"
+    )
+    fun findById(userId: Long, postId: Long): PostLike?
+}
+```
 
 ```kotlin
 package com.kotlin.study.dongambackend.domain.post.service
