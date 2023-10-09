@@ -8,4 +8,4 @@
 | 날짜 | 기록 |
 | --- | --- |
 | 126일차 (10/4) | Optional 제대로 알고 쓰기 |
-| 127일차 (10/9) | 코틀린 JPA 사용 시 Nullable vs Optional |
+| 127일차 (10/9) | 코틀린 JPA 사용 시 Nullable vs Optional, @Enumerated |
