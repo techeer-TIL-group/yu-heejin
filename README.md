@@ -9,3 +9,4 @@
 | --- | --- |
 | 126일차 (10/4) | Optional 제대로 알고 쓰기 |
 | 127일차 (10/9) | 코틀린 JPA 사용 시 Nullable vs Optional, @Enumerated |
+| 128일차 (10/11) | 사소한 Java 기초 문법들 (6) |
