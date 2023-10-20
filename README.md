@@ -11,3 +11,4 @@
 | 127일차 (10/9) | 코틀린 JPA 사용 시 Nullable vs Optional, @Enumerated |
 | 128일차 (10/11) | 사소한 Java 기초 문법들 (6) |
 | 129일차 (10/15) | Kotlin에서 Request 유효성 검사하기 |
+| 130일차 (10/20) | JPA에서 데이터를 일괄 삭제하는 방법들 |
