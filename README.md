@@ -15,3 +15,4 @@
 | 131일차 (11/2) | Scanner로 길이를 모르는 여러 값 입력 받기, (우테코 하면서 알게된) 사소한 Javascript 문법 (1) |
 | 132일차 (11/4) | 이진 탐색 트리(Binary Search Tree) |
 | 133일차 (11/6) | GROUP_CONCAT과 ORDER BY |
+| 134일차 (11/11) | 최소 신장 트리(MST) |
