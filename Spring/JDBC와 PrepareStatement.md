@@ -1,6 +1,7 @@
 ## JDBC (Java DataBase Connectivity)
 
-![https://shs2810.tistory.com/18](https://prod-files-secure.s3.us-west-2.amazonaws.com/f30f0daf-8f58-4626-9f2f-1aec07bc75ed/98d23b75-f7ac-4de4-825c-8a180073ea72/Untitled.png)
+<img width="610" alt="스크린샷 2023-12-18 오후 10 35 33" src="https://github.com/techeer-TIL-group/yu-heejin/assets/96467030/009dde4a-fa8d-4d52-82f8-b184865f443f">
+
 
 https://shs2810.tistory.com/18
 
