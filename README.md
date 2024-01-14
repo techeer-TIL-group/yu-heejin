@@ -25,3 +25,4 @@
 | 141일차 (12/18) | JDBC와 PreparedStatement |
 | 142일차 (1/2) | JPA 연관 관계 |
 | 143일차 (1/9) | kotlin takeIf, takeUnless |
+| 144일차 (1/14) | JPA cascade |
