@@ -3,7 +3,7 @@
 | -- | -- |
 | [0525 ~ 0621](https://github.com/techeer-TIL-group/yu-heejin/blob/main/Log/0525-0621.md) | [0623 ~ 0721](https://github.com/techeer-TIL-group/yu-heejin/blob/main/Log/0623-0721.md) |
 | [0722 ~ 0823](https://github.com/techeer-TIL-group/yu-heejin/blob/main/Log/0722-0823.md) | [0901 ~ 0930](https://github.com/techeer-TIL-group/yu-heejin/blob/main/Log/0901-0930.md) |
-| [1004 ~ 0114](https://github.com/techeer-TIL-group/yu-heejin/blob/main/Log/1004-0114.md) |
+| [1004 ~ 0114](https://github.com/techeer-TIL-group/yu-heejin/blob/main/Log/1004-0114.md) | [0116 ~ 0509](https://github.com/techeer-TIL-group/yu-heejin/blob/main/Log/0116-0509.md) |
 
 ## 오늘 공부한 것 기록하기 ✏️
 | 날짜 | 기록 |
