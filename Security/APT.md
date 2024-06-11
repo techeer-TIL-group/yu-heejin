@@ -8,7 +8,8 @@
 
 ### 기존 악성코드 공격과의 차이점
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/dc805bdb-ff59-4dd2-9416-9b8fa9c8b78f/11cbcd3c-8341-4c8d-93ed-64f0b9e8578b/Untitled.png)
+![image](https://github.com/techeer-TIL-group/yu-heejin/assets/96467030/3b5650bb-09f0-456e-9aef-14e19452c321)
+
 
 - 기존 공격과 달리 시스템에 잠복해 지속적으로 공격하고, 탐지 또한 어렵다.
 
@@ -21,7 +22,8 @@
 
 ### APT 공격 사이클
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/dc805bdb-ff59-4dd2-9416-9b8fa9c8b78f/ede4303a-96e0-49f2-afca-a97ccd1520b7/Untitled.png)
+![image](https://github.com/techeer-TIL-group/yu-heejin/assets/96467030/695cc99c-c453-46bb-a1b8-d7afe5df0833)
+
 
 - 정보 수집
     - APT 공격은 스파이처럼 상대방 컴퓨터에 침투하는 것이 특징이다.
