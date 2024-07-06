@@ -162,4 +162,4 @@
 | 159일차 (6/11) | TCP 5 tuple, APT |
 | 160일차 (6/12) | 심볼릭 링크, scp |
 | 161일차 (6/18) | Daemon process |
-| 162일차 (7/6) | python strip() |
+| 162일차 (7/6) | python strip(), 이메일 프로토콜 이해하기 |
